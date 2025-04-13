@@ -76,7 +76,7 @@ Before you begin, ensure you have met the following requirements:
 To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/abiek12/Fake-News-Detection-using-MachineLearning.git
+   git clone https://github.com/DineshDeepanshu2002/MachineLearning-projects-/tree/main/Fake-News-Detection-using-MachineLearning-main
    ```
 
 2. Create a virtual environment (optional but recommended):
@@ -107,8 +107,4 @@ Access the application in your web browser by navigating to `http://localhost:50
 ---
 
 **Author**
-- ABHISHEK P P (https://github.com/abiek12)
-
-- If you have any questions or need further assistance, feel free to contact us at abhishekkanichery@gmail.com
-
----
+- DineshDeepanshu2002 (https://github.com/DineshDeepanshu2002)
