@@ -1,4 +1,6 @@
 Soil Pollution and Health Impact Analysis
+
+
 This project explores the impact of soil pollution on human health using data analysis and visualization techniques in Python. The notebook performs exploratory data analysis (EDA), feature engineering, and preliminary machine learning modeling to uncover patterns and relationships in the dataset.
 
 📁 Project Structure
